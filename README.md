@@ -9,7 +9,7 @@ Still work in progress
 ## Team Id
 BFH/rechwDdScAvJCcUy9/2021
 ## Link to product walkthrough
-[link to video]
+https://www.loom.com/share/ba6142c55fd04cc39dcaed21db3b870e
 ## How it is supposed to Work ?
 1. Create an account
 2. Upload an audio
