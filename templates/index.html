@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+   <!--<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;900&display=swap" rel="stylesheet">-->
+    <title>
+        Post your Music
+    </title>
+    <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles2.css') }}">
+
+</head>
+
+<body>
+    <header>
+        <div id = "body">
+            <label class="title">
+               <!-- <img src="bg-image-3.jpg" width : 1550px , height : 150px>-->
+                <h1>Post your Music</h1></label>
+                <div class="page-header"></div>
+                <div class="btn-group pull-right header-btn-group">
+                    <button type="Log out" class="logout">Log out</button>
+                </div></div>
+            
+        </div>
+    </header>
+        <div class="welcome-text">
+            <div class="container">
+                <form method = POST action = "{{ url_for('upload_file') }}" enctype="multipart/form-data">
+                    <input name="Choose file" type="file" class="upload-box">
+                    <input type=submit value=Upload>
+                    <!--<button type="submit" class=""></button>-->
+                    <!--<input type=submit value=Upload>-->
+                    <!--\\\<button type="submit" class="convert">Convert</button>-->
+                    <!--<button type="submit"><a href="output/video_output.mp4" download="video_output.mp4">Download</a></button>-->
+                </form>
+            </div>
+        </div>
+
+</body>
+
+</html>

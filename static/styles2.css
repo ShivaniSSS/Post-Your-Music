@@ -1,0 +1,126 @@
+header {
+    
+    /*background-image: linear-gradient(to right, #006175, #c8e3e2);*/	
+    height: 100vh;
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-position: center center;
+	position: relative;
+}
+#body{
+   background: linear-gradient(to right, rgb(87, 102, 122), #c8e3e2);
+   /*background: linear-gradient(to right,#006175, #c8e3e2);*/
+ /*  background-image: linear-gradient(rgba(0,0,0, 0.4), rgba(0,0,0, 0.4)), url(download.jpg);*/
+    width : 1550px;
+    height : 150px;
+
+}
+label.title{
+    left : 20px;
+    position : relative;
+    float : left;
+    margin-top : 30px;
+    padding-left: 20px;
+    color: aliceblue;
+    font-size: 25px;
+}
+
+.btn-group pull-right header-btn-group{
+    top: 10px;
+}
+
+.welcome-text {
+    bottom : 0;
+	position: absolute;
+	width: 600px;
+	height: 300px;
+	margin: 20% 30%;
+	text-align: top;
+
+}
+.welcome-text h1 {
+	text-align: left;
+	color: rgb(12, 12, 12);
+	text-transform: uppercase;
+	font-size: 60px;
+}
+.container{
+    
+    top: 60%;
+    left : 50%;
+    transform: translate(-50%,-50%);
+    position :absolute ;
+
+}
+.upload-box{
+    
+    font-size: 16px;
+    background: cornsilk;
+    border-radius: 80px;
+    box-shadow : 5px 5px 10px rgb(19, 16, 16);
+    width: 500px;
+    outline: none;
+
+}
+::-webkit-file-upload-button{
+    color: cornsilk;
+    background: rgb(86, 105, 129);
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    box-shadow : 0px 0px 0px 0px rgb(69, 109, 161);
+    outline: none;
+
+}
+::-webkit-file-upload-button:hover{
+    background: #7789a1;
+}
+.convert{
+    top:50px;
+    left:10%;
+    width: 125px;
+    height: 45px;
+    margin: 5px auto;
+    position: relative;
+    border-radius: 35px;
+    border: None;
+    background: linear-gradient(to right, rgb(110, 128, 153), #c8e3e2);
+    cursor: pointer;
+}
+.convert:hover{
+    background: rgb(155, 175, 201);
+    
+}
+.download{
+    top:50px;
+    left:30%;
+    width: 125px;
+    height: 45px;
+    margin: 5px auto;
+    position: relative;
+    border-radius: 35px;
+    border: None;
+    background: linear-gradient(to right, rgb(110, 128, 153), #c8e3e2);
+    cursor: pointer;
+}
+.download:hover{
+    background: rgb(155, 175, 201);
+    
+}
+.logout{
+    left:30%;
+    width: 125px;
+    height: 45px;
+    margin-left:  550px;
+    margin-top: 0px;
+    position: relative;
+    border-radius: 35px;
+    border: None;
+    background: linear-gradient(to right, rgb(163, 175, 190), #c8e3e2);
+    cursor: pointer;
+}
+.logout:hover{
+    background: rgb(151, 160, 172);
+    
+
+}
