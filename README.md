@@ -1,6 +1,8 @@
 ![BFH Banner](https://trello-attachments.s3.amazonaws.com/542e9c6316504d5797afbfb9/542e9c6316504d5797afbfc1/39dee8d993841943b5723510ce663233/Frame_19.png)
 # Post-Your-Music
 A web application where you can upload your music and get a downloadable video with interesting visuals for your music, which you can post on various social media platforms. Check out the sample output <a href='https://github.com/ShivaniSSS/Post-Your-Music/blob/main/Sample%20audios%20and%20videos/sample_output.mp4'>here</a>.
+## Status
+Still work in progress
 ## Team members
 1. <a href =  "http://github.com/swethalohith">Swetha Lohith</a>
 2. <a href =  "http://github.com/ShivaniSSS">Shivani S</a>
