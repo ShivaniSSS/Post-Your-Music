@@ -4,7 +4,7 @@ A web application where you can upload your music and get a downloadable video w
 <hr>
 Status: Still work in progress
 <br><br>
-Check out a [sample output](https://github.com/ShivaniSSS/Post-Your-Music/blob/main/Sample%20audios%20and%20videos/sample_output.mp4)
+Check out the <a href = "https://github.com/ShivaniSSS/Post-Your-Music/blob/main/Sample%20audios%20and%20videos/sample_output.mp4">sample output</a>.
 <hr>
 Team Id:
 <br>
@@ -12,9 +12,8 @@ Team Id:
 <br><br>
 Team members:
 <br>
- [Swetha Lohith](http://github.com/swethalohith)
+<a href =  "http://github.com/swethalohith">Swetha Lohith</a>
 <br>
- [Shivani S](http://github.com/ShivaniSSS)
-<br>
+<a href =  "http://github.com/ShivaniSSS">Shivani S</a>
 <hr>
 
